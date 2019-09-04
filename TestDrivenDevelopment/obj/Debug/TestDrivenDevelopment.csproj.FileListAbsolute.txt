@@ -1,0 +1,7 @@
+C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.exe.config
+C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.exe
+C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.pdb
+C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csprojAssemblyReference.cache
+C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.exe
+C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.pdb

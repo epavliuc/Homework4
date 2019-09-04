@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using CalculatorNS;
 namespace CalculatorWPF
 {
     /// <summary>
@@ -23,6 +23,29 @@ namespace CalculatorWPF
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            double num1 = Double.Parse(fstValue.Text);
+            double num2 = Double.Parse(sndValue.Text);
+            if (CombBox.SelectedItem == add)
+            {
+                Result.Content = (Calculator.Add(num1, num2));
+            }else if(CombBox.SelectedItem == minus)
+            {
+                Result.Content = (Calculator.Minus(num1, num2));
+            }
+            else if(CombBox.SelectedItem == times)
+            {
+                Result.Content = (Calculator.Multiply(num1, num2));
+            }
+            else if (CombBox.SelectedItem == divide)
+            {
+                Result.Content = (Calculator.Divide(num1, num2));
+            }
+            
+                
         }
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\CalcuatorMSTest\\CalcuatorMSTest.csproj": {}
+    "D:\\VisualStudio\\Homework4\\CalcuatorMSTest\\CalcuatorMSTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\CalcuatorMSTest\\CalcuatorMSTest.csproj": {
+    "D:\\VisualStudio\\Homework4\\CalcuatorMSTest\\CalcuatorMSTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\CalcuatorMSTest\\CalcuatorMSTest.csproj",
+        "projectUniqueName": "D:\\VisualStudio\\Homework4\\CalcuatorMSTest\\CalcuatorMSTest.csproj",
         "projectName": "CalcuatorMSTest",
-        "projectPath": "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\CalcuatorMSTest\\CalcuatorMSTest.csproj",
-        "packagesPath": "C:\\Users\\Eduard Pavliuc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\CalcuatorMSTest\\obj\\",
+        "projectPath": "D:\\VisualStudio\\Homework4\\CalcuatorMSTest\\CalcuatorMSTest.csproj",
+        "packagesPath": "C:\\Users\\Edd\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudio\\Homework4\\CalcuatorMSTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Eduard Pavliuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\Calculator\\Calculator.csproj": {
-                "projectPath": "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\Calculator\\Calculator.csproj"
+              "D:\\VisualStudio\\Homework4\\Calculator\\Calculator.csproj": {
+                "projectPath": "D:\\VisualStudio\\Homework4\\Calculator\\Calculator.csproj"
               }
             }
           }
@@ -71,12 +71,12 @@
         }
       }
     },
-    "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\Calculator\\Calculator.csproj": {
+    "D:\\VisualStudio\\Homework4\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "D:\\VisualStudio\\Homework4\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Eduard Pavliuc\\Engineering40\\Week4\\Day3\\TestDrivenDevelopment\\Calculator\\Calculator.csproj"
+        "projectPath": "D:\\VisualStudio\\Homework4\\Calculator\\Calculator.csproj"
       },
       "frameworks": {
         "net472": {}

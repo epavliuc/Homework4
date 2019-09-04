@@ -5,3 +5,10 @@ C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\Calculato
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\Calculator\obj\Debug\Calculator.exe
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\Calculator\obj\Debug\Calculator.pdb
+D:\VisualStudio\Homework4\Calculator\bin\Debug\Calculator.exe.config
+D:\VisualStudio\Homework4\Calculator\bin\Debug\Calculator.exe
+D:\VisualStudio\Homework4\Calculator\bin\Debug\Calculator.pdb
+D:\VisualStudio\Homework4\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\VisualStudio\Homework4\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Homework4\Calculator\obj\Debug\Calculator.exe
+D:\VisualStudio\Homework4\Calculator\obj\Debug\Calculator.pdb

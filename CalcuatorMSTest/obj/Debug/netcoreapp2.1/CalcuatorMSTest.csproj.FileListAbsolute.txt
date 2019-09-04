@@ -16,3 +16,21 @@ C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\Calcuator
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Calculator.pdb
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Calculator.exe.config
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.csproj.CopyComplete
+D:\VisualStudio\Homework4\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.csprojAssemblyReference.cache
+D:\VisualStudio\Homework4\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Homework4\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.AssemblyInfoInputs.cache
+D:\VisualStudio\Homework4\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.AssemblyInfo.cs
+D:\VisualStudio\Homework4\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.dll
+D:\VisualStudio\Homework4\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.pdb
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\CalcuatorMSTest.deps.json
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\CalcuatorMSTest.runtimeconfig.json
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\CalcuatorMSTest.runtimeconfig.dev.json
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\CalcuatorMSTest.dll
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\CalcuatorMSTest.pdb
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Calculator.exe
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Calculator.pdb
+D:\VisualStudio\Homework4\CalcuatorMSTest\bin\Debug\netcoreapp2.1\Calculator.exe.config
+D:\VisualStudio\Homework4\CalcuatorMSTest\obj\Debug\netcoreapp2.1\CalcuatorMSTest.csproj.CopyComplete

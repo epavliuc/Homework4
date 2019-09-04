@@ -13,3 +13,22 @@ C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\Calculato
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\CalculatorWPF\obj\Debug\CalculatorWPF.exe
 C:\Users\Eduard Pavliuc\Engineering40\Week4\Day3\TestDrivenDevelopment\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+D:\VisualStudio\Homework4\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+D:\VisualStudio\Homework4\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+D:\VisualStudio\Homework4\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+D:\VisualStudio\Homework4\CalculatorWPF\bin\Debug\Calculator.exe
+D:\VisualStudio\Homework4\CalculatorWPF\bin\Debug\Calculator.pdb
+D:\VisualStudio\Homework4\CalculatorWPF\bin\Debug\Calculator.exe.config
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\App.g.cs
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\MainWindow.baml
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CopyComplete
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+D:\VisualStudio\Homework4\CalculatorWPF\obj\Debug\CalculatorWPF.pdb

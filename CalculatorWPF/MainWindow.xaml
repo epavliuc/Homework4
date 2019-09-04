@@ -12,13 +12,14 @@
         <Label Content="Label 2" Margin="96,0,635.6,328" Height="32" VerticalAlignment="Bottom" />
         <TextBox Name="fstValue" HorizontalAlignment="Left" Height="23" Margin="182,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox Name="sndValue" HorizontalAlignment="Left" Height="23" Margin="182,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <ComboBox Width="150" Height="25" Margin="182,105,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
+        <ComboBox Name="CombBox" Width="150" Height="25" Margin="182,105,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
             <ComboBoxItem Name="add">Add(+)</ComboBoxItem>
             <ComboBoxItem Name="minus">Minus(-)</ComboBoxItem>
             <ComboBoxItem Name="times">Times(*)</ComboBoxItem>
             <ComboBoxItem Name="divide">Divide(/)</ComboBoxItem>
         </ComboBox>
-        <Label Content="Result" HorizontalAlignment="Left" Margin="384,60,0,0" VerticalAlignment="Top"/>
-        <Button Content="Submit" HorizontalAlignment="Left" Margin="384,105,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Name="Result" Content="" HorizontalAlignment="Left" Margin="384,60,0,0" VerticalAlignment="Top"/>
+        <Label Name="ResultLbl" Content="Result: " HorizontalAlignment="Left" Margin="323,60,0,0" VerticalAlignment="Top"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="384,105,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
     </Grid>
 </Window>

@@ -15,25 +15,25 @@ namespace CalculatorNS
 
     public class Calculator
     {
-        public double Add(int v1, int v2)
+        public static double Add(double v1, double v2)
         {
             double result = v1 + v2;
             return result;
         }
 
-        public double Minus(int v1, int v2)
+        public static double Minus(double v1, double v2)
         {
             double result = v1 - v2;
             return result;
         }
 
-        public double Divide(int v1, int v2)
+        public static double Divide(double v1, double v2)
         {
             double result = v1 / v2;
             return result;
         }
 
-        public double Multiply(int v1, int v2)
+        public static double Multiply(double v1, double v2)
         {
             double result = v1 * v2;
             return result;
